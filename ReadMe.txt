@@ -33,16 +33,8 @@ A media player that supports .mp4 video format.
 
 5. Contact Information
 For further information or questions, please contact:
-
 Name: Dr. Erim Yanik
 Email: erimyanik@gmail.com
 Phone: +1 (518)-258-1691
-
-#########################################################################################################################################################################
-
-6. Disclaimer
-The materials in this folder are confidential and intended solely for demonstration purposes. All information, materials, and technology presented are exclusively owned 
-and fully reserved by Dr. Erim Yanik and affiliated research laboratories and organizations. Unauthorized use, reproduction, or distribution is strictly prohibited and 
-may result in legal action.
 
 
